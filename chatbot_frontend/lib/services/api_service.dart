@@ -3,9 +3,9 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:chatbot/constants/api_consts.dart';
-import 'package:chatbot/models/chat_model.dart';
-import 'package:chatbot/models/models_model.dart';
+import 'package:chatbot_frontend/constants/api_consts.dart';
+import 'package:chatbot_frontend/models/chat_model.dart';
+import 'package:chatbot_frontend/models/models_model.dart';
 import 'package:http/http.dart' as http;
 
 class ApiService {

@@ -1,5 +1,5 @@
-import 'package:chatbot/models/models_model.dart';
-import 'package:chatbot/services/api_service.dart';
+import 'package:chatbot_frontend/models/models_model.dart';
+import 'package:chatbot_frontend/services/api_service.dart';
 import 'package:flutter/material.dart';
 
 class ModelsProvider with ChangeNotifier {
