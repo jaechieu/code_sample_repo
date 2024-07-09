@@ -3,9 +3,8 @@ variable "myregion" {
   default = "us-west-2"
 }
 
-
 variable "accountId" {
-  default = "us-west-2"
+  default = "716436161795"
 }
 
 
@@ -58,4 +57,18 @@ variable "data_validating_lambda_path" {
   description = ""
   type        = string
   default     = "../data_validating_lambda"
+}
+
+
+
+variable "inferencing_lambda" {
+  description = ""
+  type        = string
+  default     = "inferencing_lambda"
+}
+
+variable "inferencing_lambda_path" {
+  description = ""
+  type        = string
+  default     = "../inferencing_lambda"
 }
