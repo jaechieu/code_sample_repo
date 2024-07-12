@@ -1,6 +1,6 @@
-import 'package:chatbot_frontend/constants/constants.dart';
-import 'package:chatbot_frontend/provider/models_provider.dart';
-import 'package:chatbot_frontend/widgets/text_widget.dart';
+import 'package:frontend/constants/constants.dart';
+import 'package:frontend/provider/models_provider.dart';
+import 'package:frontend/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

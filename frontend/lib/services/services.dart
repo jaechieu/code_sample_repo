@@ -1,4 +1,4 @@
-import 'package:chatbot_frontend/widgets/models_drop_down.dart';
+import 'package:frontend/widgets/models_drop_down.dart';
 import 'package:flutter/material.dart';
 
 import '../constants/constants.dart';

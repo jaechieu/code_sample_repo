@@ -1,7 +1,7 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
-import 'package:chatbot_frontend/constants/constants.dart';
-import 'package:chatbot_frontend/services/assets_manager.dart';
-import 'package:chatbot_frontend/widgets/text_widget.dart';
+import 'package:frontend/constants/constants.dart';
+import 'package:frontend/services/assets_manager.dart';
+import 'package:frontend/widgets/text_widget.dart';
 import 'package:flutter/material.dart';
 
 class ChatWidget extends StatelessWidget {

@@ -1,5 +1,5 @@
-import 'package:chatbot_frontend/provider/chat_provider.dart';
-import 'package:chatbot_frontend/provider/models_provider.dart';
+import 'package:frontend/provider/chat_provider.dart';
+import 'package:frontend/provider/models_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
